@@ -18,6 +18,10 @@ No sourcing of data, minimal styling via [new.css plugin](https://github.com/raa
 
     Edit `src/pages/index.js` to see your site update in real-time!
 
+    The example function is running at http://localhost:8000/api/hello-world!
+
+    Edit `src/api/hello-world.js` to change it and reload to see the change.
+
 3.  **Learn more from Gatsby**
 
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)

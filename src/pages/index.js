@@ -24,6 +24,10 @@ const IndexPage = () => {
 
       <h2>Hipster Lorem</h2>
       <p>
+        Checkout out the example Gatsby Function at{" "}
+        <a href="/api/hello-world">/api/hello-world</a>
+      </p>
+      <p>
         Succulents palo santo asymmetrical chillwave gluten-free, VHS seitan.
         Tilde letterpress fingerstache mlkshk, viral deep v tbh hammock neutra
         affogato four loko ramps pop-up disrupt. Everyday carry vape taiyaki
